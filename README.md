@@ -34,7 +34,8 @@ The Noisy Signal Filter project involves the development of an advanced filter u
    git clone https://github.com/yourusername/noisy-signal-filter.git
 2. Navigate to the project directory:
    ```bash
-  cd noisy-signal-filter
+   cd noisy-signal-filter
+   ```
 3. Run the Jupyter Notebook
   ```bash
   jupyter notebook NoisySignalFilter.ipynb
