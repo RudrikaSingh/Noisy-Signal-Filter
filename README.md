@@ -38,6 +38,7 @@ The Noisy Signal Filter project involves the development of an advanced filter u
 3. Run the Jupyter Notebook
   ```bash
   jupyter notebook NoisySignalFilter.ipynb
+  ``` 
 ## Results
 The project successfully reduces noise and enhances signal clarity using the Butterworth low-pass filter. The visualization of the original, noisy, and filtered signals demonstrates the effectiveness of the filtering process.
 
